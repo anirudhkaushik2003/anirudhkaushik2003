@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhkaushik2003&theme=tokyonight&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
   
-<div\>
+<\div>
 <!--
 **anirudhkaushik2003/anirudhkaushik2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
