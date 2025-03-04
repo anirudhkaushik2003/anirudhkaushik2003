@@ -1,7 +1,7 @@
 Hey! I'm Anirudh 👋  
 I build things, write sometimes, and occasionally make art.
 
-- 🌐 [My website](https://anirudhkaushik2003.github.io) – projects, thoughts, and experiments.
+- 🌐 [My website](https://anirudhkaushik2003.github.io) – projects, resume and publications.
 - ✍️ [Blog, stories & artwork](https://anirudhkaushik2003.github.io/blog/) – ideas in progress, leave a comment and share your thoughts!
 - 🛠️ [Projects](https://anirudhkaushik2003.github.io/projects/) – what I've been working on.
 
