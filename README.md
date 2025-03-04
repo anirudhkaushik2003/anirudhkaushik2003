@@ -1,21 +1,17 @@
+Hey! I'm Anirudh 👋  
+I build things, write sometimes, and occasionally make art.
+
+- 🌐 [My website](https://anirudhkaushik2003.github.io) – projects, thoughts, and experiments.
+- ✍️ [Blog, stories & artwork](https://anirudhkaushik2003.github.io/blog/) – ideas in progress, leave a comment.
+- 🛠️ [Projects](https://anirudhkaushik2003.github.io/projects/) – what I've been working on.
+
+---
+
 <div align="center">
-  
+
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anirudhkaushik2003&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anirudhkaushik2003&theme=tokyonight&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats) </div>
-  
-<!--
-**anirudhkaushik2003/anirudhkaushik2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anirudhkaushik2003&theme=tokyonight&hide=makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
